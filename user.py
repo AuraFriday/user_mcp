@@ -10,9 +10,9 @@ Leverages the friday.py Qt infrastructure to show interactive HTML content using
 VERSION: 2025.09.13.001 - Proxy to friday.py UIService (No Direct Qt)
 
 Copyright: © 2025 Christopher Nathan Drake. All rights reserved.
-SPDX-License-Identifier: Proprietary
-"signature": "JƲ৭ЕY𝟧MꓑƼDlþ𝕌𝟑ģКϹᎻОᛕďոƍµMþPRеОgꓔÞνDģᏴcDᗅ𝟦ВÐНƋɋɋ𝟛ꓠU5ⲦfrƻYƘɯuᴍiiΟP9𝟣𝛢𝟟ƙ𐐕ꓧĸoʋᎬΒН𐓒ꓝɋꙄ𝟥ŧωꓑоꜱnϜtᎠОϜɌƤᗅАkΡƬ𝙰6ƼMР𝟛ցȜ3"
-"signdate": "2025-11-24T12:18:44.953Z",
+SPDX-License-Identifier: Apache-2.0
+"signature": "Ρμ𝟩𝙰ϹꙅꓔFꓣȠЅ𝟨Ɵ𐓒ցꓗΝRⲢɅꓐМƌwɌƏбɯɅ𝟟𐐕ȣ5ɌԛÐyսᛕꓦ4ďƵτ1Ꭼ𝟣7ᗪs𝟚ⲔSӠȜk6ꓴģ9ЈųÞᎠꓖmMꓮᗅPΡ𝟩ɯԝАꓳꓝⲟzƖꓚᴠCJF𝟙ƍⴹ𝟧𝟙7rþnīƴvNᴠƶƏᏂꙄɋΚⲦЕƟ7"
+"signdate": "2025-12-02T05:00:34.632Z",
 """
 
 # Version tracking for debugging MCP integration
